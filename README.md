@@ -23,6 +23,6 @@ A=np.array([[2,-3,0],[2,-5,0],[0,0,3]])
 e_va,e_ve=np.linalg.eig(A)
 print(f"Eigen values are {e_va} and Eigen Vectors are {e_ve}")
 ```
-## Output:![output](image.png)
+## Output:![output](image-1.png)
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
